@@ -1,0 +1,15 @@
+
+.green-icon{
+    color: rgba(10, 245, 29, 0.616);
+}
+
+.red-icon{
+    color: rgb(245, 10, 10);
+}
+.toast-success, .toast-error {
+    top: 80px !important;
+  }
+.spinner-border{
+    height: 2rem;
+    width: 2rem;
+}
